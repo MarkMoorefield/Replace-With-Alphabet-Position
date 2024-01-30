@@ -2,7 +2,7 @@
 // Created a variable called alphabet, and plugged in all the letters. 
 // made the text variable lowercase and split it up into an array. 
 // Then I made it so that depending on the letter switched it to the corresponding number.
-// then I joined the numbers together into an array and returned it. 
+// I then joined the numbers together into an array and returned it.   
 
 
 function alphabetPosition(text) {
